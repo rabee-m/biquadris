@@ -32,9 +32,3 @@ Contributions are welcome! Please fork this repository, make changes, and submit
 Distributed under the MIT License. See LICENSE for more information.
 
 Feel free to modify this template to match your specific implementation or preferences.
-
-
-
-
-
-
