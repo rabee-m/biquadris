@@ -1,7 +1,7 @@
 # Biquadris 🎮
 Biquadris is a two-player, turn-based variation of the classic Tetris game. Unlike traditional Tetris, Biquadris allows players to take their time to decide block placement, making it more strategic. The game supports both text-based and graphical displays, along with multiple difficulty levels and special actions to enhance gameplay.
 
-## CLI Vversion
+## CLI version
 ![commandline_tetris](https://github.com/user-attachments/assets/00a40855-ad54-4010-a0ef-1a246cea2d96)
 
 ## XWindow (GUI) version
